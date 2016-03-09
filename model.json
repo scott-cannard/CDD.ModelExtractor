@@ -1,0 +1,9 @@
+{
+  "field1": "value1",
+  "field2": "value2",
+  "object1": {
+    "objField_A": "AAAA",
+    "objField_B": "BBBB"
+  },
+  "lastButNotLeast": "the final value"
+}
